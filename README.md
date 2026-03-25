@@ -1,3 +1,5 @@
+![please replace with alt text](https://img.shields.io/badge/anytext-youlike-blue)
+
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
 
