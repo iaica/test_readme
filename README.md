@@ -23,3 +23,5 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </details>
 
 [![please replace with alt text](https://img.shields.io/badge/anytext-youlike-blue)](https://example.org)
+
+[[_TOC_]]
